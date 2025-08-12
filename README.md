@@ -36,8 +36,8 @@
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email Address]
+- **LinkedIn:** www.linkedin.com/in/deepthiak24
+- **Email:** deepthiak24@gmail.com
 
 ---
 *"In cybersecurity, the best defense is a well-practiced offense."*
